@@ -3,9 +3,10 @@
 Features:
 - [ ] RSS parsing
 - [ ] Atom parsing
-- [ ] Telegram proxing
+- [ ] Telegram messaging
 - [ ] Saving last state to file
 - [ ] Template language for messages
+  - [ ] Escaped html
 - [ ] Telegram message pinning
 - [ ] Auth in sources
 - [ ] Implement daemon mode with schedule
